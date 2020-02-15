@@ -4,13 +4,26 @@ ip:52.58.37.72
 
 ssh port : 2222
 
-url:http://52.58.37.72/
+to browse the website propaply [because google sign-in does not accept ips as origins]
 
-put the RSA private key found in the notes sent with submition in : ~/.ssh/catalog [catalog is a file]
+you have to edit your hosts file (found in /etc/hosts) and add the following line
+
+`52.58.37.72     restaurants-Item-Catalog`
+
+url:http://restaurants-item-catalog/
+
+put the RSA private key found in the notes sent with submition on your computer in the following directory : 
+
+~/.ssh/catalog [where catalog is a file]
 
 Software installed:
-apache2
 
-sqlite3 
+1.apache2
 
-python3-pip  tree
+2.sqlite3 (instead of postgreSQL) 
+
+3.python3-pip
+
+4.tree (to see the all directories)
+
+
