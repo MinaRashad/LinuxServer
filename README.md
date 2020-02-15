@@ -80,6 +80,7 @@ to upgrade to latest version
 ## Has the web server been configured to serve the Item Catalog application?
 ## Has the database server been configured to properly serve data?
 *IMPORTANT NOTE: I Used SQLite3 package instead of postgreSQL package as it is the library I used in my Web app*
+
 this is done by creating conf file with
 `sudo nano /etc/apache2/sites-available/FlaskApp.conf` 
 and type the following
