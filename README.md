@@ -15,6 +15,10 @@ url:http://restaurants-item-catalog/
 put the RSA private key found in the notes sent with submition on your computer in the following directory : 
 
 ~/.ssh/catalog [where catalog is a file]
+```
+nano ~/.ssh/catalog
+```
+paste the private key here
 
 Software installed:
 
