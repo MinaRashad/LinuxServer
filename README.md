@@ -1,6 +1,8 @@
 # LinuxServer
 ## Secure linux server for hosting item catalog site
-ip:52.58.37.72
+### The is server is currently down
+
+ip: ~~52.58.37.72~~
 
 ssh port : 2222
 
@@ -8,7 +10,7 @@ to browse the website propaply [because google sign-in does not accept ips as or
 
 you have to edit your hosts file (found in /etc/hosts) and add the following line
 
-`52.58.37.72     restaurants-Item-Catalog`
+`*Server IP*     restaurants-Item-Catalog`
 
 url:http://restaurants-item-catalog/
 
