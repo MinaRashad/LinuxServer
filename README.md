@@ -1,6 +1,6 @@
 # LinuxServer
 ## Secure linux server for hosting item catalog site
-### The is server is currently down
+### The server is currently down
 
 ip: ~~52.58.37.72~~
 
