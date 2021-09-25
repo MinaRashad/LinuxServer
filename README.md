@@ -14,7 +14,7 @@ you have to edit your hosts file (found in /etc/hosts) and add the following lin
 
 url:http://restaurants-item-catalog/
 
-put the RSA private key found in the notes sent with submition on your computer in the following directory : 
+put the RSA private key found in the notes sent with submission on your computer in the following directory : 
 
 ~/.ssh/catalog [where catalog is a file]
 ```
